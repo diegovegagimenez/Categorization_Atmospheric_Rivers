@@ -1,5 +1,4 @@
-# Environmental Physics Laboratory (EPhysLab), Universidade de Vigo 2020
-# Simplified script SCALE ARs. Hourly version. 5 days of data.
+# Simplified script SCALE ARs. 
 
 
 import numpy as np
