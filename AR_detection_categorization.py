@@ -9,7 +9,7 @@ import sys
 from netCDF4 import Dataset
 
 File = Dataset(
-    "./ERA5_ARs2019_Case_Study.nc")  # Data from ERA5 over the region of interest. This data contains 5 days.
+    "./ERA5_Original_6h_East_West_1979.nc")  # Data from ERA5 over the region of interest. This data contains 5 days.
 # The analysis will be carried out the second, third and fourth day (72 hours).
 
 # This script does not use XARRAY and Cartopy. It makes use of numpy and generates data designed to plot in Basemap.
